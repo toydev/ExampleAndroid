@@ -1,4 +1,4 @@
-package example.android.ownway.info.toolbar;
+package info.ownway.android.example.toolbar;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar);
         setSupportActionBar(toolbar);
-
+        toolbar.setContentInsetsAbsolute(0, 0);
     }
 
     @Override
