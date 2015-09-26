@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <string name="label_app_message">左端からスワイプでナビゲーションを引き出せる</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="label_nav_item1">項目１</string>
+    <string name="label_nav_item2">項目２</string>
+
+    <string name="navigation_drawer_open">ナビを開く</string>
+    <string name="navigation_drawer_close">ナビを閉じる</string>
+</resources>
