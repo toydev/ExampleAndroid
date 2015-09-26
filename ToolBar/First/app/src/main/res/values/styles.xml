@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- ToolBar を使用する場合、NoActionBar を設定する -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+</resources>
