@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">ToolBar - First</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="app_message">初めてのツールバーサンプルです。</string>
 </resources>
