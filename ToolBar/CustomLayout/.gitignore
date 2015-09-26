@@ -1,0 +1,27 @@
+# 参考サイト：http://www.torutk.com/projects/swe/wiki/Android_Studio%E3%81%AE%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E7%AE%A1%E7%90%86%E5%AF%BE%E8%B1%A1%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB
+
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+*.iml
+
+/.idea/*.xml
+
+!/.idea/codeStyleSettings.xml
+!/.idea/copyright/*.xml
+!/.idea/fileColors.xml
+!/.idea/encodings.xml
+!/.idea/gradle.xml
+!/.idea/runConfigurations/*.xml
+
+!/.idea/inspectionProfiles/*.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+
+!/.idea/scopes/*.xml
+/.idea/scopes/scope_settings.xml
+
+!/.idea/templateLanguages.xml
+!/.idea/vcs.xml

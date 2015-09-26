@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToolBar - CustomLayout</string>
+
+    <string name="label_toolbar_button1">ボタン１</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="label_menu1">メニュー１</string>
+    <string name="label_menu2">メニュー２</string>
+</resources>
